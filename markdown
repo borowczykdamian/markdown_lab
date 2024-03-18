@@ -26,5 +26,4 @@ cd DataCruncher
 | Jon Doe   | 29 | Developer
 |Jane Smith  | 32 | Data Analyst
 
-![Markdown Logo-(https://www.fnordware.com/superpng/pnggrad16rgb.png)
-]
+![Markdown Logo]-(https://www.fnordware.com/superpng/pnggrad16rgb.png)
